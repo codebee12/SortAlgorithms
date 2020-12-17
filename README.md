@@ -1,4 +1,4 @@
-# SortAlgorithms
+# Sorting Algorithms
 Contains a few famous sorting algorithms
 
 ## Tech Used
